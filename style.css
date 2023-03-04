@@ -1,0 +1,56 @@
+body{
+    margin:0px;
+   
+}
+
+h1{
+    font-size:22px;
+    font-family: 'Gloock', serif;
+}
+.span{
+    color: rgb(4, 131, 250);
+}
+.heft-width{
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    margin-left: 2%;
+}
+.heft-width img{
+    width:70%;
+    height:400px;
+}
+.top-benar{
+   
+    background-image: url(img/top-banner.png);
+    margin-bottom:110px;
+}
+section{
+    height:350px;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 8px;
+    margin: 8px 10px;
+    background-color: rgb(231, 90, 90);
+    color: honeydew;
+    border-radius: 8px;
+}
+.drem{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 110px;
+   
+}
+.border{
+    box-shadow: 5px 5px 50px gray;
+    border-radius: 7px;
+    height: 60%;
+    background-color: rgba(182, 207, 252, 0.944);
+    border-left:1px solid rgba(238, 14, 59, 0.705);
+}
+footer{
+    text-align: center;
+    color: darkviolet;
+}
